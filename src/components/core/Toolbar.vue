@@ -71,14 +71,14 @@
       class="mr-3"
     >
       <span v-if="$vuetify.breakpoint.mdAndUp">
-        Download
+        Donate NOW
       </span>
 
       <v-icon
         v-else
         color="primary"
       >
-        mdi-cloud-download
+        mdi-credit-card-settings-outline
       </v-icon>
     </base-btn>
   </v-toolbar>

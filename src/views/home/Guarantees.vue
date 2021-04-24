@@ -36,7 +36,7 @@
         </h4>
 
         <div class="title font-weight-light">
-          Strictly adhere <br>doctor patient confidentiality<br> agreement
+          Strictly adhere <br>doctor-patient confidentiality<br> agreement
         </div>
       </v-col>
 

@@ -57,11 +57,11 @@
       ],
       stats2: [
         { title: 'TG-1303', subtitle: 'Chronic Lymphotic Leukemia' },
-        { title: 'Umbralisib', subtitle: 'Marginal Zone' },
+        { title: 'Umbralisib', subtitle: 'Marginal Zone Lymphoma' },
         { title: 'Etrolizumab', subtitle: 'Ulcerative Colitis' },
         { title: 'Iptatasertib', subtitle: 'Breast Cancer' },
         { title: 'PDR001', subtitle: 'Melanoma' },
-        { title: 'Pemazyre', subtitle: 'Bladde Cancer' },
+        { title: 'Pemazyre', subtitle: 'Bladder Cancer' },
       ],
     }),
   }

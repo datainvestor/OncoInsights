@@ -6,7 +6,7 @@
       <v-col cols="12" md="6">
         <base-subheading
           :left="$vuetify.breakpoint.mdAndUp"
-          subtitle="Get to know the type of treatments and complementary available for your cancer, toghether with viable financial support options"
+          subtitle="Get to know the type of treatments and complementary therapies available for your cancer, toghether with viable financial support options"
           title="Premium Treatment Navigation"
         />
       </v-col>

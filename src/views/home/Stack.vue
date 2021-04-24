@@ -60,18 +60,18 @@
           </tr>
 
           <tr>
-            <td>Personalized and comprehensive <br> treatment options with cost</td>
-            <td><check /><p class="mb-0"><sub>(1 week)</sub></p></td>
-            <td><check /><p class="mb-0"><sub>(48h)</sub></p></td>
-            <td><check /><p class="mb-0"><sub>(24h)</sub></p></td>
+            <td>Personalized and comprehensive <br> treatment options with cost <br> consideration </td>
+            <td><check /><p class="mb-0"><sub>(1 week)*</sub></p></td>
+            <td><check /><p class="mb-0"><sub>(48h)*</sub></p></td>
+            <td><check /><p class="mb-0"><sub>(24h)*</sub></p></td>
             <template v-if="$vuetify.breakpoint.mdAndUp">
-               <td> <check /><p class="mb-0"><sub>(8h)</sub></p></td>
-               <td><check /><p class="mb-0"><sub>(2h)</sub></p></td>
+               <td> <check /><p class="mb-0"><sub>(8h)*</sub></p></td>
+               <td><check /><p class="mb-0"><sub>(2h)*</sub></p></td>
             </template>
           </tr>
 
           <tr>
-            <td>Automatic timely update of new <br>treatment options yo your report</td>
+            <td>Automatic timely update of new <br>treatment options your report</td>
             <td></td>
             <td><check /></td>
             <td><check /></td>
@@ -116,18 +116,19 @@
 
           <tr>
             <td>Cancer Management <br> and Healthy Living App</td>
-            <td><check /><p class="mb-0"><sub>(1 week trial)</sub></p></td>
-            <td><check /><p class="mb-0"><sub>(1 week trial)</sub></p></td>
-            <td><check /><p class="mb-0"><sub>(1 week trial)</sub></p></td>
+            <td><check /><p class="mb-0"><sub>(1 week trial)*</sub></p></td>
+            <td><check /><p class="mb-0"><sub>(1 week trial)*</sub></p></td>
+            <td><check /><p class="mb-0"><sub>(1 week trial)*</sub></p></td>
             <template v-if="$vuetify.breakpoint.mdAndUp">
-              <td><check /><p class="mb-0"><sub>(1 week trial)</sub></p></td>
-              <td><check /><p class="mb-0"><sub>(1 week trial)</sub></p></td>
+              <td><check /><p class="mb-0"><sub>(1 week trial)*</sub></p></td>
+              <td><check /></td>
             </template>
           </tr>
           <tr />
         </tbody>
 
       </v-simple-table>
+      <div class="mt-4">*Time taken to get the report</div>
     </base-card>
   </v-container>
 </template>
