@@ -32,7 +32,7 @@
         </base-card>
 
         <h4 class="headline font-weight-bold">
-          Oncologists
+          Trusted Oncologists
         </h4>
 
         <div class="title font-weight-light">
