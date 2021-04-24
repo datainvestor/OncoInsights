@@ -37,8 +37,8 @@
             </h1>
 
             <div
-              class="grey--text mb-md-12 mb-6 mt-2"
-              :class="[$vuetify.breakpoint.smAndDown ? 'headline text--lighten-1' : 'headline']"
+              class=" mb-md-12 mb-6 mt-2"
+              :class="[$vuetify.breakpoint.smAndDown ? 'headline black--text text--lighten-1' : 'grey--text title ']"
             >
               Understand your treatment options, <em>today</em>
             </div>
@@ -107,13 +107,13 @@
         },
         {
           src: '2.png',
-          title: 'Perosnalised Report',
+          title: 'Personalised Report',
           text: 'We provide a personalised comprehensive and up-to-date treatement options with cost-consideration based on in-depth assesment of your cancer and financial requirement',
         },
         {
           src: '3.png',
           title: 'Timely update',
-          text: 'Data is timely-updated with our seamless cutting edge data searching algoirthm',
+          text: 'Data is timely-updated with our seamless cutting edge data searching algorithm',
         },
       ],
     }),

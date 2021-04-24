@@ -25,12 +25,6 @@
         <h3 class="headline primary--text" v-text="member.name" />
 
         <div class="text-uppercase subtitle-1 font-weight-bold" v-text="member.pos" />
-
-        <div
-          class="subtitle-1 font-weight-light grey--text text--darken-1 mx-auto"
-          style="max-width: 250px;"
-          v-text="member.blurb"
-        />
       </v-col>
     </v-row>
 
@@ -45,12 +39,6 @@
         <h3 class="headline primary--text" v-text="member.name" />
 
         <div class="text-uppercase subtitle-1 font-weight-bold" v-text="member.pos" />
-
-        <div
-          class="subtitle-1 font-weight-light grey--text text--darken-1 mx-auto"
-          style="max-width: 250px;"
-          v-text="member.blurb"
-        />
       </v-col>
     </v-row>
 
@@ -65,12 +53,6 @@
         <h3 class="headline primary--text" v-text="member.name" />
 
         <div class="text-uppercase subtitle-1 font-weight-bold" v-text="member.pos" />
-
-        <div
-          class="subtitle-1 font-weight-light grey--text text--darken-1 mx-auto"
-          style="max-width: 250px;"
-          v-text="member.blurb"
-        />
       </v-col>
     </v-row>
   </v-container>

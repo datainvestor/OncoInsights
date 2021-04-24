@@ -6,7 +6,7 @@
       <v-col cols="12" md="6">
         <base-subheading
           :left="$vuetify.breakpoint.mdAndUp"
-          subtitle="Get to know the type of treatments and complementary available for oyur cancer, toghether with viable financial support options"
+          subtitle="Get to know the type of treatments and complementary available for your cancer, toghether with viable financial support options"
           title="Premium Treatment Navigation"
         />
       </v-col>
@@ -20,7 +20,7 @@
       <v-col cols="12" md="6">
         <base-subheading
           :right="$vuetify.breakpoint.mdAndUp"
-          subtitle="Our team of oncology social workers and oncologists are available 24/7 to answer your questions regarding your perosnalised treatment report"
+          subtitle="Our team of oncology social workers and oncologists are available 24/7 to answer your questions regarding your personalised treatment report"
           title="Responsive OncoInsights Support Staff"
         />
       </v-col>

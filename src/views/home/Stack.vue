@@ -104,7 +104,7 @@
           </tr>
 
           <tr>
-            <td>Speak with Professiona <br> Oncologist Social Worker</td>
+            <td>Speak with Professional <br> Oncologist Social Worker</td>
             <td />
             <td />
             <td />
@@ -115,7 +115,7 @@
           </tr>
 
           <tr>
-            <td>CAncer Management <br> and Healthy Living App</td>
+            <td>Cancer Management <br> and Healthy Living App</td>
             <td><check /><p class="mb-0"><sub>(1 week trial)</sub></p></td>
             <td><check /><p class="mb-0"><sub>(1 week trial)</sub></p></td>
             <td><check /><p class="mb-0"><sub>(1 week trial)</sub></p></td>

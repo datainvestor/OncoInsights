@@ -7,7 +7,7 @@
     <base-subheading
       class="mb-12"
       subtitle="Sit back and enjoy."
-      title="Last Cancer Breakthrougs in 60 Seconds"
+      title="Latest Cancer Breakthrougs in 60 Seconds"
     />
 
     <base-card
