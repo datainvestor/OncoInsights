@@ -21,7 +21,8 @@
         <v-spacer></v-spacer>
         <v-col>
           <v-row class="mb-0 mt-5">
-            <v-btn text color="white"> Previous</v-btn>
+              <!-- eslint-disable-next-line vue/no-parsing-error -->
+            <v-btn text color="white"> {{"< Previous "}}</v-btn>
             <v-spacer></v-spacer>
             <v-btn text color="white">Next ></v-btn>
           </v-row>

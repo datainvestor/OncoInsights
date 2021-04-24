@@ -116,11 +116,11 @@
 
           <tr>
             <td>Cancer Management <br> and Healthy Living App</td>
-            <td><check /><p class="mb-0"><sub>(1 week trial)*</sub></p></td>
-            <td><check /><p class="mb-0"><sub>(1 week trial)*</sub></p></td>
-            <td><check /><p class="mb-0"><sub>(1 week trial)*</sub></p></td>
+            <td><check /><p class="mb-0"><sub>(1 week trial)</sub></p></td>
+            <td><check /><p class="mb-0"><sub>(1 week trial)</sub></p></td>
+            <td><check /><p class="mb-0"><sub>(1 week trial)</sub></p></td>
             <template v-if="$vuetify.breakpoint.mdAndUp">
-              <td><check /><p class="mb-0"><sub>(1 week trial)*</sub></p></td>
+              <td><check /><p class="mb-0"><sub>(1 week trial)</sub></p></td>
               <td><check /></td>
             </template>
           </tr>

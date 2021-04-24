@@ -113,7 +113,7 @@
         {
           src: '3.png',
           title: 'Timely update',
-          text: 'Data is timely-updated with our seamless cutting edge data searching algorithm',
+          text: 'Data is timely-updated with our seamless cutting-edge data searching algorithm',
         },
       ],
     }),
