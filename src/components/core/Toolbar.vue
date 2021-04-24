@@ -21,7 +21,7 @@
           />
         </v-avatar>
         <span class="hidden-sm-and-down">
-          Onco&nbsp;<span class="font-weight-light">Insights</span>
+          ONCO&nbsp;<span class="font-weight-light">Insights</span>
         </span>
       </router-link>
     </v-toolbar-title>

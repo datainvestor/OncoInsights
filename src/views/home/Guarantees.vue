@@ -6,7 +6,7 @@
   >
     <base-subheading
       class="mb-12"
-      subtitle="How OncoInsights maintain patient confidentiality"
+      subtitle="How ONCO Insights maintain patient confidentiality"
       title="Confidentiality Above ALL"
     />
 
@@ -115,7 +115,7 @@
         </base-card>
 
         <h4 class="display-1 font-weight-bold">
-          Onco Insights
+          ONCO Insights
         </h4>
       </v-col>
 

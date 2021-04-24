@@ -6,7 +6,7 @@
       <v-col cols="12" md="6">
         <base-subheading
           :left="$vuetify.breakpoint.mdAndUp"
-          subtitle="Get to know the type of treatments and complementary therapies available for your cancer, toghether with viable financial support options"
+          subtitle="Get to know the type of treatments and complementary therapies available for your cancer, together with viable financial support options"
           title="Premium Treatment Navigation"
         />
       </v-col>
@@ -21,7 +21,7 @@
         <base-subheading
           :right="$vuetify.breakpoint.mdAndUp"
           subtitle="Our team of oncology social workers and oncologists are available 24/7 to answer your questions regarding your personalised treatment report"
-          title="Responsive OncoInsights Support Staff"
+          title="Responsive ONCO Insights Support Staff"
         />
       </v-col>
 
@@ -36,7 +36,7 @@
       <v-col cols="12" md="6">
         <base-subheading
           :left="$vuetify.breakpoint.mdAndUp"
-          subtitle="Anytime, anywhere—The power of OncoInsights is at your fingertips."
+          subtitle="Anytime, anywhere—The power of ONCO Insights is at your fingertips."
           title="Complete Control"
         />
       </v-col>

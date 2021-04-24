@@ -7,7 +7,7 @@
         <p>It is wonderful that we have many cancer drugs in development and on the market. However, the cancer treatment options are a bit overwhelming at times for both the patients and the doctors that they cannot keep up with. Therefore, it is necessary to have a tool to gather the big data to quantify clinical benefit, toxicity and out-of-pocket drug costs so physicians and patients can compare treatment options with cost as a consideration to come up with the most suitable treatment plan for the patients.</p>
 
         <p>
-          <b>OncoInsights</b> uses our cutting-edge algorithm to assess the value of cancer treatment options and provide cancer patients and oncologists with personalised, comprehensive and professional information on available treatment options with cost-consideration and up-to-date advancements in oncology.
+          <b>ONCO Insights</b> uses our cutting-edge algorithm to assess the value of cancer treatment options and provide cancer patients and oncologists with personalised, comprehensive and professional information on available treatment options with cost-consideration and up-to-date advancements in oncology.
         </p>
 
         <p>Our report presents alternative treatment options in a more easily digestible way that allows both physicians and patients to make sense of the explosions of advancements in cancer treatment and drug options and to use them effectively.</p>

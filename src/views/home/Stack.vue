@@ -93,7 +93,7 @@
           </tr>
 
           <tr>
-            <td>Access to OncoInsights Magazine<br> Workshops and Webinars</td>
+            <td>Access to ONCO Insights Magazine<br> Workshops and Webinars</td>
             <td />
             <td />
             <td />
